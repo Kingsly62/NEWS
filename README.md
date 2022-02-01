@@ -18,6 +18,9 @@ These are the behaviours/features that the application implements for use by a u
 
 ### SetUp / Installation Requirements
 
+- $ pip install flask
+- $ pip install newsapi-python
+
 ##### Prerequisites
 
 - python3.9
