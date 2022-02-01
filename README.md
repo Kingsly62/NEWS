@@ -4,7 +4,7 @@
 
 ### Description
 
-Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
+NewsApi is a platform that allows users to view daily news updates, from different sources such as BBC new ,Al-Jazeera news ,politics ,sports and many more
 
 ### User Stories
 
@@ -12,7 +12,7 @@ These are the behaviours/features that the application implements for use by a u
 
 #### As a user I would like:
 
-- To create an api website where i can log in- log in and password
+- To create an api website where i can log in by clicking start button.
 - Receiives daily news updates
 - Get more news from different countries as it updates it self.
 
